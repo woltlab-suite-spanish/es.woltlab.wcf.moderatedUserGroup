@@ -8,6 +8,7 @@ Idioma español para **WoltLab Suite Core: Moderated User Groups**, desarrollado
     * [WoltLab Suite Core: Infractions](https://github.com/woltlab-suite-spanish/es.woltlab.wcf.infraction)
     * [WoltLab Suite Core: Legal Notice](https://github.com/woltlab-suite-spanish/es.woltlab.wcf.legalNotice)
     * [WoltLab Suite Core: Moderated User Groups](https://github.com/woltlab-suite-spanish/es.woltlab.wcf.moderatedUserGroup)
+    * [WoltLab Suite Core: Elasticsearch Integration](https://github.com/woltlab-suite-spanish/es.woltlab.wcf.elasticSearch)
 * [WoltLab Suite Forum](https://github.com/woltlab-suite-spanish/es.woltlab.wbb)
 * [WoltLab Suite Gallery](https://github.com/woltlab-suite-spanish/es.woltlab.gallery)
 * [WoltLab Suite Blog](https://github.com/woltlab-suite-spanish/es.woltlab.blog)
