@@ -17,6 +17,7 @@ Idioma español para **WoltLab Suite Core: Moderated User Groups**, desarrollado
     * [WoltLab Suite Calendar: Event Threads](https://github.com/woltlab-suite-spanish/es.woltlab.calendar.eventThread)
 * [WoltLab Suite Filebase](https://github.com/woltlab-suite-spanish/es.woltlab.filebase)
     * [WoltLab Suite Filebase: Support Threads](https://github.com/woltlab-suite-spanish/es.woltlab.filebase.supportThread)
+* [WoltLab Suite Database](https://github.com/woltlab-suite-spanish/es.woltlab.wsdb)
 
 ## ✏️ Notas de la traducción
 1. La traducción utiliza como base el archivo de idioma inglés `en.xml` del software.  
